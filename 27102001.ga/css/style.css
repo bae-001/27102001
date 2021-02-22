@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/flowers_background_repeating_style_sketch_6828742.jpg);
+}
+h1{
+    text-align: center;
+    margin-top: 3em;
+    color: rgb(255, 0, 0);
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+ul li{
+    margin: 2em;
+}
+ul li a{
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+ul li a:hover{
+    color: turquoise;
+}
